@@ -1,0 +1,1 @@
+é uma camada interna da [[Célula]] preenchida por uma solução aquosa e que compõe 

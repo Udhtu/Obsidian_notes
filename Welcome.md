@@ -1,0 +1,1 @@
+Aqui começa as anotações do enem o que é uma mizera kk.

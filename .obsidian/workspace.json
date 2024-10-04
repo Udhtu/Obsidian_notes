@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "de0e0412722d8144",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cf88c98cab41e08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94be7ce5841f7e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Citoplasma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9c9f4ff8ae0a3ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9c3975564584737",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa667b3929de7420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3e32a98ef4dee05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5b24869e0727486",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8290a14179ecf3ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "b03446547bb84983",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cbf6e96231fb91c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "107a51a27ad75fb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biologia/Citoplasma.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98e3738a8bd88bee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Biologia/Citoplasma.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "640322b66ece5703",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "669d0dc89f7c84b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Biologia/Citoplasma.md"
+              }
+            }
+          },
+          {
+            "id": "4b87ff084c4a0b74",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "72ccdb631a13c0f7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "60b25f0bb9764b02",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "60b25f0bb9764b02",
+  "lastOpenFiles": [
+    "smart-chats",
+    "Biologia/Célula.md",
+    "Biologia/Citoplasma.md",
+    "planta.md",
+    "Biologia/Tecidos.md",
+    "Biologia/Biologia.md",
+    "Física.md",
+    "Quimica",
+    "Biologia",
+    "Português",
+    "Matemática",
+    "Welcome.md",
+    "Física"
+  ]
+}
