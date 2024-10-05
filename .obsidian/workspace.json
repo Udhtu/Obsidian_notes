@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Citoplasma.md",
+                "file": "Biologia/Biologia.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c9c9f4ff8ae0a3ec",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Citoplasma.md",
+                "file": "Biologia/Biologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Citoplasma.md",
+                "file": "Biologia/Biologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Citoplasma.md"
+                "file": "Biologia/Biologia.md"
               }
             }
           },
@@ -166,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 559.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +178,11 @@
   },
   "active": "94be7ce5841f7e75",
   "lastOpenFiles": [
+    "README.md",
+    "Biologia/Citoplasma.md",
     "Biologia/Tecidos.md",
     "Biologia/Célula.md",
     "Biologia/Biologia.md",
-    "Biologia/Citoplasma.md",
     "smart-chats",
     "planta.md",
     "Física.md",
