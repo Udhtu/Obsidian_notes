@@ -1,3 +1,6 @@
 {
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Images"
 }
