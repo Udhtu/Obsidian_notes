@@ -1,0 +1,1 @@
+comparação de palavras com o uso de espressões figuradas a exemplo de: Os doces estão vendendo como água(Interpretação correta: Os doces estão sendo vendidos rapidamente.)
